@@ -1,0 +1,8 @@
+{
+    "patient":{
+        "hello": "Hio patient"
+    },
+    "trialManager":{
+        "variable": "hi {{name}}"
+    }
+}
